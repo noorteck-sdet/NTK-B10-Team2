@@ -11,10 +11,6 @@ public class DemoDay3 {
 		String name = "Sami";
 		int age = 39;
 		String Address = "Alexandria, VA, USA";
-		System.out.println(name);
-		System.out.println(age);
-		System.out.println(Address);
-
 	}
 
 	public void GetInfo () {
