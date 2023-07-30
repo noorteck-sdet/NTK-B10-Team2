@@ -15,4 +15,9 @@ public class DemoDay3 {
 		
 		System.out.println(name + Position + Address);
 	}
+
+	public void GetInfo () {
+			System.out.println("Print the personal information");
+
+}
 }
