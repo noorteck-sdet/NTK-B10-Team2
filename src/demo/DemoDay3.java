@@ -20,4 +20,7 @@ public class DemoDay3 {
 			System.out.println("Print the personal information");
 
 }
+	public static void Weather () {
+		System.out.println("Today");
+}
 }
