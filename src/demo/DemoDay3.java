@@ -6,11 +6,9 @@ public class DemoDay3 {
 		System.out.println("Demo..");
 	}
 	
-	public void PersonalInfo () {
+	public void GetTheInfo () {
 		
-		String name = "Sami";
-		int age = 39;
-		String Address = "Alexandria, VA, USA";
+		System.out.println("Find the data form GitHum........");
 	}
 
 	public void GetInfo () {
