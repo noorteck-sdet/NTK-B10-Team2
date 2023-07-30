@@ -18,5 +18,11 @@ System.out.println("zainab");
 }
 	public static void WeatherInfo () {
 		System.out.println("Today is sunny");
+		
+	}
+		public void sport () {
+			
+			System.out.println("Soccer");
+		
 }
 }
