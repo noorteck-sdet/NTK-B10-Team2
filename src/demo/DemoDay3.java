@@ -10,4 +10,6 @@ public class DemoDay3 {
 			System.out.println("Print the personal information");
 
 }
+	public static void GetWeatherInfo () {
+		System.out.println("Today is hot and sunny");
 }
