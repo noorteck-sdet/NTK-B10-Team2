@@ -9,11 +9,10 @@ public class DemoDay3 {
 	public void PersonalInfo () {
 		
 		String name = "Sami";
-		String Position = "Project Manager";
 		int age = 39;
 		String Address = "Alexandria, VA, USA";
 		
-		System.out.println(name + Position + Address);
+		System.out.println(name + age + Address);
 	}
 
 	public void GetInfo () {
