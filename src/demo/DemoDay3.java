@@ -12,11 +12,5 @@ System.out.println("zainab");
 }
 
 
-
-	public static void GetWeatherInfo () {
-		System.out.println("Today is hot and sunny");
-}
-	public static void WeatherInfo () {
-		System.out.println("Today is sunny");
-}
+//importance of following stash process && communicating... :)
 }
