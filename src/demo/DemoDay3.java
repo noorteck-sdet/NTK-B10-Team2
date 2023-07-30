@@ -12,6 +12,7 @@ System.out.println("zainab");
 }
 
 
+<<<<<<< HEAD
 
 	public static void GetWeatherInfo () {
 		System.out.println("Today is hot and sunny");
@@ -25,4 +26,7 @@ System.out.println("zainab");
 			System.out.println("Soccer");
 		
 }
+=======
+//importance of following stash process && communicating... :)
+>>>>>>> branch 'master' of https://github.com/noorteck-sdet/NTK-B10-Team2.git
 }
