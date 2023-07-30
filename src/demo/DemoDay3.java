@@ -21,6 +21,13 @@ public class DemoDay3 {
 
 }
 	public static void Weather () {
-		System.out.println("Today");
+		System.out.println("The weaterh is 97 F");
+}
+	
+	public static void GetWeatherInfo () {
+		System.out.println("Today is hot and sunny");
+}
+	public static void WeatherInfo () {
+		System.out.println("Today is sunny");
 }
 }
