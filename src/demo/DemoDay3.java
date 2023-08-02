@@ -17,29 +17,24 @@ public class DemoDay3 {
 	public void GetInfo() {
 		System.out.println("Print the personal information");
 		System.out.println("zainab");
-=======
-	public void GetInfo () {
+	}
+	public void GetInfo1 () {
 			System.out.println("Print the personal information");
 System.out.println("zainab");
 }
-<<<<<<< HEAD
 	public static void Weather () {
 		System.out.println("The weaterh is 97 F");
 }
-=======
 
 
 
->>>>>>> branch 'master' of https://github.com/noorteck-sdet/NTK-B10-Team2.git
-	public static void GetWeatherInfo () {
+	public static void GetWeatherInfo1 () {
 		System.out.println("Today is hot and sunny");
 }
-	public static void WeatherInfo () {
+	public static void WeatherInfo2 () {
 		System.out.println("Today is sunny");
 		
->>>>>>> branch 'master' of https://github.com/noorteck-sdet/NTK-B10-Team2.git
 	}
-<<<<<<< HEAD
 
 	public static void GetWeatherInfo() {
 		System.out.println("Today is hot and sunny");
@@ -50,13 +45,12 @@ System.out.println("zainab");
 
 	}
 
-	public void sport() {
+	public void sport1() {
 
 		System.out.println("Soccer");
 		System.out.println("test");
 	}
 
-=======
 		public void sport () {
 			
 			System.out.println("Soccer");
@@ -70,5 +64,3 @@ System.out.println("zainab");
 			System.out.println("Username");
 		}
 		}
->>>>>>> branch 'master' of https://github.com/noorteck-sdet/NTK-B10-Team2.git
-}
