@@ -2,38 +2,38 @@ package demo;
 
 public class DemoDay3 {
 
-	//Trap Note: never push conflict code...
+	// Trap Note: never push conflict code...
 
 	public static void main(String[] args) {
 		System.out.println("Demo..");
 	}
-	
-	public void GetTheInfo () {
-		
+
+	public void GetTheInfo() {
+
 		System.out.println("Find the data form GitHum........");
 	}
-
 
 	public void GetInfo() {
 		System.out.println("Print the personal information");
 		System.out.println("zainab");
 	}
-	public void GetInfo1 () {
-			System.out.println("Print the personal information");
-System.out.println("zainab");
-}
-	public static void Weather () {
+
+	public void GetInfo1() {
+		System.out.println("Print the personal information");
+		System.out.println("zainab");
+	}
+
+	public static void Weather() {
 		System.out.println("The weaterh is 97 F");
-}
+	}
 
-
-
-	public static void GetWeatherInfo1 () {
+	public static void GetWeatherInfo1() {
 		System.out.println("Today is hot and sunny");
-}
-	public static void WeatherInfo2 () {
+	}
+
+	public static void WeatherInfo2() {
 		System.out.println("Today is sunny");
-		
+
 	}
 
 	public static void GetWeatherInfo() {
@@ -51,16 +51,18 @@ System.out.println("zainab");
 		System.out.println("test");
 	}
 
-		public void sport () {
-			
-			System.out.println("Soccer");
-		
+	public void sport() {
+
+		System.out.println("Soccer");
+
+	}
+
+	public static void getId() {
+		System.out.println("Id");
+	}
+
+	public static void getUser() {
+		System.out.println("Username");
+	}
+	
 }
-		public static void getId() {
-			System.out.println("Id");
-		}
-		
-		public static void getUser() {
-			System.out.println("Username");
-		}
-		}
