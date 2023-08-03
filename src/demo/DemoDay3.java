@@ -8,9 +8,10 @@ public class DemoDay3 {
 		System.out.println("Demo..");
 		System.out.println("new line");
 		System.out.println("new line1");
-		System.out.println("new line2");
-		System.out.println("new line3");
+		System.out.println("conflict");
+		System.out.println("conflict");
 		System.out.println("new line4");
+		System.out.println("new line5");
 	}
 
 	public void GetTheInfo() {
