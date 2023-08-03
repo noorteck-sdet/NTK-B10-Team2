@@ -6,10 +6,14 @@ public class DemoDay3 {
 
 	public static void main(String[] args) {
 		System.out.println("Demo..");
+		System.out.println("new line");
+		System.out.println("new line1");
+		System.out.println("new line2");
+		System.out.println("new line3");
+		System.out.println("new line4");
 	}
 
 	public void GetTheInfo() {
-
 		System.out.println("Find the data form GitHum........");
 	}
 
@@ -33,7 +37,6 @@ public class DemoDay3 {
 
 	public static void WeatherInfo2() {
 		System.out.println("Today is sunny");
-
 	}
 
 	public static void GetWeatherInfo() {
@@ -42,19 +45,15 @@ public class DemoDay3 {
 
 	public static void WeatherInfo() {
 		System.out.println("Today is sunny");
-
 	}
 
 	public void sport1() {
-
 		System.out.println("Soccer");
 		System.out.println("test");
 	}
 
 	public void sport() {
-
 		System.out.println("Soccer");
-
 	}
 
 	public static void getId() {
