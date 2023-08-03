@@ -12,6 +12,7 @@ public class DemoDay3 {
 		System.out.println("conflict");	
 		System.out.println("new line4");
 		System.out.println("new line5");
+		System.out.println("This is a new line ...................");
 	}
 
 	public void GetTheInfo() {
@@ -26,6 +27,8 @@ public class DemoDay3 {
 		System.out.println("Peru");
 		System.out.println("24");
 		System.out.println("new line");
+		System.out.println("This is Sami");
+
 	}
 
 	public void GetInfo1() {
