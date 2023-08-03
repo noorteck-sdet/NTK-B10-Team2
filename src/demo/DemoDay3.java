@@ -9,7 +9,7 @@ public class DemoDay3 {
 		System.out.println("new line");
 		System.out.println("new line1");
 		System.out.println("conflict");
-		System.out.println("conflict");
+		System.out.println("conflict");	
 		System.out.println("new line4");
 		System.out.println("new line5");
 	}
