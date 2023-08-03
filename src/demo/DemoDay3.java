@@ -25,6 +25,7 @@ public class DemoDay3 {
 		System.out.println("Alejandro Salas");
 		System.out.println("Peru");
 		System.out.println("24");
+		System.out.println("new line");
 	}
 
 	public void GetInfo1() {
