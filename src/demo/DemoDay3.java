@@ -12,24 +12,37 @@ public class DemoDay3 {
 		System.out.println("conflict");	
 		System.out.println("new line4");
 		System.out.println("new line5");
+		System.out.println("This is a new line ...................");
 	}
 
 	public void GetTheInfo() {
 		System.out.println("Find the data form GitHum........");
+		System.out.println("zainab hussien");
+		System.out.println("zainab hussien");
+		System.out.println(" hussien");
 	}
 
 	public void GetInfo() {
 		System.out.println("Print the personal information");
+		System.out.println("I am busy");
 		System.out.println("zainab");
 		System.out.println("master");
-	}
-	
-	public void GetInfo2() {
-		System.out.println("Print the personal info");
-		System.out.println("hello world");
-		System.out.println("master");
-	}
 
+		System.out.println("Alejandro Salas");
+		System.out.println("Peru");
+		System.out.println("24");
+		System.out.println("new line");
+
+		System.out.println("shahad aldoori");
+
+		System.out.println("This is Sami");
+		System.out.println("hi ....");
+		System.out.println("...");
+
+		System.out.println("zainab");
+
+
+	}
 	public void GetInfo1() {
 		System.out.println("Print the personal information");
 		System.out.println("Print the personal info");
