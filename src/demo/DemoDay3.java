@@ -29,6 +29,7 @@ public class DemoDay3 {
 		System.out.println("24");
 		System.out.println("new line");
 		System.out.println("This is Sami");
+		System.out.println("hi ....");
 
 		System.out.println("zainab");
 		System.out.println("shahad please do not pull");
