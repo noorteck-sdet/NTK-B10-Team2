@@ -32,9 +32,11 @@ public class DemoDay3 {
 		System.out.println("shahad aldoori");
 
 		System.out.println("This is Sami");
-		System.out.println("zainab");
-	}
 
+		System.out.println("zainab");
+
+
+	}
 	public void GetInfo1() {
 		System.out.println("Print the personal information");
 		System.out.println("zainab");
