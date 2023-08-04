@@ -28,11 +28,14 @@ public class DemoDay3 {
 		System.out.println("Peru");
 		System.out.println("24");
 		System.out.println("new line");
+
+		System.out.println("shahad aldoori");
+
 		System.out.println("This is Sami");
 		System.out.println("hi ....");
 
 		System.out.println("zainab");
-		System.out.println("shahad please do not pull");
+
 
 	}
 	public void GetInfo1() {
