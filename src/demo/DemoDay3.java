@@ -17,6 +17,7 @@ public class DemoDay3 {
 
 	public void GetTheInfo() {
 		System.out.println("Find the data form GitHum........");
+		System.out.println("zainab hussien");
 	}
 
 	public void GetInfo() {
