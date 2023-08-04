@@ -22,6 +22,7 @@ public class DemoDay3 {
 
 	public void GetInfo() {
 		System.out.println("Print the personal information");
+		System.out.println("I am busy");
 		System.out.println("zainab");
 		System.out.println("master");
 		System.out.println("Alejandro Salas");
