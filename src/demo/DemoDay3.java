@@ -12,10 +12,12 @@ public class DemoDay3 {
 		System.out.println("conflict");	
 		System.out.println("new line4");
 		System.out.println("new line5");
+		System.out.println("This is a new line ...................");
 	}
 
 	public void GetTheInfo() {
 		System.out.println("Find the data form GitHum........");
+		System.out.println("zainab hussien");
 	}
 
 	public void GetInfo() {
@@ -26,7 +28,11 @@ public class DemoDay3 {
 		System.out.println("Peru");
 		System.out.println("24");
 		System.out.println("new line");
+
 		System.out.println("shahad aldoori");
+
+		System.out.println("This is Sami");
+		System.out.println("zainab");
 	}
 
 	public void GetInfo1() {
