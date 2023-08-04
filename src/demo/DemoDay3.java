@@ -26,6 +26,7 @@ public class DemoDay3 {
 
 	public void GetInfo1() {
 		System.out.println("Print the personal information");
+		System.out.println("Print the personal info");
 		System.out.println("zainab");
 	}
 
