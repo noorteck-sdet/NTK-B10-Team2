@@ -29,11 +29,11 @@ public class DemoDay3 {
 		System.out.println("24");
 		System.out.println("new line");
 		System.out.println("This is Sami");
+
 		System.out.println("zainab");
 		System.out.println("shahad please do not pull");
 
 	}
-
 	public void GetInfo1() {
 		System.out.println("Print the personal information");
 		System.out.println("zainab");
